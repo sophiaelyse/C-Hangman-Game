@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-	string input = "", 
+	string input = "",
 		   reverse = "";
 
 	cout << "Enter a string: ";
@@ -18,6 +18,6 @@ int main(){
 		reverse += input[i];
 
 	cout << reverse << endl;;
-
+//hiiiiii
 	return 0;
 }
