@@ -11,6 +11,7 @@ int main(){
 
 	cout << "Enter a string: ";
 	cin >> input;
+  cout << endl;
 
 	transform(input.begin(), input.end(), input.begin(), ::tolower);
 
